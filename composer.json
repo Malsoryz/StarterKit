@@ -1,9 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "malsoryz/laravel-starterkit",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "description": "starterkit testing",
+    "keywords": ["malsoryz"],
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
